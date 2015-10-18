@@ -34,16 +34,16 @@
             <div id="companyname" align="left">BU - MET CS651</div>
             <div id="mainmenu">
                 <ul>
-                    <li><a class="current" href="#">Colorize Words</a></li>
-                    <li><a href="/sort.aspx">Sort Words</a></li>
+                    <li><a class="current" href="/default.apx">Sort Words</a></li>
+                    <li><a href="#">Link 1</a></li>
                 </ul>
             </div>
             <div id="mainmenu-max-width-480px">
                 <ul>
                     <li>
-                        <a class="current" href="#">Colorize Words</a>
+                        <a class="current" href="/default.apx">Sort Words</a>
                         <ul>
-                            <li><a href="/sort.aspx">Sort Words</a></li>
+                            <li><a href="#">Link 1</a></li>
                         </ul>
                     </li>
                 </ul>                
@@ -66,8 +66,8 @@
         </div>
         <div class="footer">
             <ul>
-                <li><a href="/default.aspx">Colorize Words</a></li>
-                <li><a href="/sort.aspx">Sorted Words</a></li>
+                 <li><a href="/default.apx">Sort Words</a></li>
+                 <li><a href="#">Link 1</a></li>
             </ul>
             <div class="clr"></div>
         </div>
